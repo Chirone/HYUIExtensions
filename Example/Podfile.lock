@@ -1,0 +1,14 @@
+PODS:
+  - HYUIExtensions (0.1.0)
+
+DEPENDENCIES:
+  - HYUIExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  HYUIExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HYUIExtensions: e3e19cda8ae0cd9b30548eab82cb7cdcb2441b61
+
+COCOAPODS: 0.32.1

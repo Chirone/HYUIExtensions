@@ -1,7 +1,11 @@
-pod "HYUIExtensions", :path => "../"
+workspace 'Demo'
+
+
 
 target "Demo" do
+pod "HYUIExtensions", :path => "../"
 end
 
 target "DemoTests" do
+pod "HYUIExtensions", :path => "../"
 end
